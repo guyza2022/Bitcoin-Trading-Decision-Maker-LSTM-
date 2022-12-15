@@ -1,0 +1,2 @@
+Interpreting name of dataset
+detectsize_threshold-percent(buy/sell)_Signal_BTCstart_stop_timeframe
